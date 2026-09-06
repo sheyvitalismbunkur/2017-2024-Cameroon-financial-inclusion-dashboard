@@ -1,6 +1,7 @@
 # 🇨🇲 Financial Inclusion in Cameroon — Findex Analysis (2017–2024)
 
-![Power BI Dashboard](dashboard.png)
+<img width="4100" height="2350" alt="dashboard png" src="https://github.com/user-attachments/assets/8b74042a-80bc-44fe-9cfa-dcc26133a7b2" />
+
 
 ## 📊 Overview
 
