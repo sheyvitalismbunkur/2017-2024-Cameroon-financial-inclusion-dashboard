@@ -32,10 +32,17 @@ SQL — Data preparation, weighted calculations, aggregation and analytical view
 
 ## 📂 Project Files
 
-```text
-
 Financial-Inclusion-Cameroon/
+│
 ├── README.md
-├── create_findex_panel.sql
 ├── dashboard.png
-└── dax_measures.md
+│
+├── data/
+│   └── findex_cameroon_panel_2017_2021_2024.csv
+│
+├── sql/
+│   └── create_findex_panel.sql
+│
+└── powerbi/
+    ├── Financial_Inclusion_Cameroon.pbix
+    └── dax_measures.md
