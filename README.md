@@ -20,7 +20,7 @@ The project explores:
 
 ## 🛠️ Tools
 
-- **SQL** — Data analysis, filtering, aggregation and calculations
+SQL — Data preparation, weighted calculations, aggregation and analytical views
 - **Power BI** — Data modeling, DAX, visualization and dashboard development
 
 ## 🔍 Key Insights
@@ -33,10 +33,9 @@ The project explores:
 ## 📂 Project Files
 
 ```text
+
 Financial-Inclusion-Cameroon/
 ├── README.md
+├── create_findex_panel.sql
 ├── dashboard.png
-├── sql/
-│   └── financial_inclusion_analysis.sql
-└── powerbi/
-    └── Financial_Inclusion_Cameroon.pbix
+└── dax_measures.md
